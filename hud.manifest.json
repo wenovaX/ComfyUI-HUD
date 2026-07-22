@@ -1,0 +1,11 @@
+{
+  "id": "comfyui-hud",
+  "name": "ComfyUI-HUD",
+  "version": "0.1.0",
+  "type": "comfyui-custom-node",
+  "entry": "__init__.py",
+  "installDirectoryName": "ComfyUI-HUD",
+  "managedBy": "ComfyUI-Nexus",
+  "sourceRepository": "",
+  "releaseArtifact": "ComfyUI-HUD-v0.1.0.zip"
+}
